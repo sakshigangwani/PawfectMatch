@@ -1,0 +1,62 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px; 
+    gap: 40px;
+}
+
+.img {
+    height: 550px;
+}
+
+.heading {
+    font-size: 55px;
+}
+
+.caption {
+    font-size: 30px;
+}
+
+.btn-container {
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    background-color: aquamarine;
+}
+
+.featureContainer {
+    padding: 50px 100px 50px 100px;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.dogContent {
+    margin-top: 40px;
+}
+
+.imgDog {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.columns {
+    margin-top: 50px;
+}
+
+.imgs {
+    height: 30px;
+}
